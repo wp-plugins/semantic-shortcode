@@ -1,10 +1,10 @@
 === Plugin Name ===
-Contributors: (sachin8600)
+Contributors: sachin8600
 Donate link: 
 Tags: shortcode, semantic, Element, Collections,  Modules, Button, Divider, Flag, Header, Icon, Image, Input, Label, List, Reveal, Grid, Message, Accordion, Tab, Transition
 Requires at least: 4.0
 Tested up to: 4.2
-Stable tag: 1.0
+Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
